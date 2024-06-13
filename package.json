@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme#readme"
+  "homepage": "https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme#readme",
+  "devDependencies": {}
 }
